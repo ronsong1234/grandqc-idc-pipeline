@@ -1,0 +1,2 @@
+tiff_name,magnification,pct_tissue_of_slide,pct_no_artifact,pct_fold,pct_dark_spot,pct_pen_marking,pct_air_bubble,pct_out_of_focus,slide_id,collection,gqc_verdict,hqc_pct_blurry,hqc_tissue_removed,hqc_verdict
+colorectal__tcga_coad__639626347774.2.0.tiff,7x,63.75,98.33,0.06,0.19,0,0.8,0.61,6.39626E+11,tcga_coad,PASS,57.76816938,FALSE,FAIL

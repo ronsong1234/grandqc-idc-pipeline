@@ -1,0 +1,2 @@
+tiff_name,magnification,pct_tissue_of_slide,pct_no_artifact,pct_fold,pct_dark_spot,pct_pen_marking,pct_air_bubble,pct_out_of_focus,slide_id,collection,gqc_verdict,hqc_pct_blurry,hqc_tissue_removed,hqc_verdict
+breast__tcga_brca__637595675116.2.0.tiff,7x,33.01,99.9,0.06,0.03,0.0,0.0,0.01,637595675116,tcga_brca,PASS,22.282423607740974,False,FAIL
