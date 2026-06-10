@@ -53,7 +53,7 @@ grandqc-idc-pipeline/
 | Collection    | Cancer Type      | Native MPP | Pipeline MPP | Status  |
 |---------------|------------------|------------|--------------|---------|
 | TCGA-COAD     | Colorectal       | 1.0        | 1.0          | ✅ Done  |
-| TCGA-BRCA     | Breast           | 0.25       | 0.5          | ✅ Done  |
+| TCGA-BRCA     | Breast           | 1.0        | 1.0          | ✅ Done  |
 | TCGA-PRAD     | Prostate         | varies     | 0.5–1.0      | 🔄 In progress |
 | CMB-PCA       | Prostate (CMB)   | varies     | 0.5–1.0      | 🔄 In progress |
 | CMB-CRC       | Colorectal (CMB) | varies     | 0.5–1.0      | 🔄 In progress |
